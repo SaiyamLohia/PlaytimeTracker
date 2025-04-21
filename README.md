@@ -16,7 +16,7 @@ Install the "psutil" library and Python.
 Open terminal in the project directory and run main.py
 
 ```bash
-  python main.yy
+  python main.py
 ```
 
 ## Commands
